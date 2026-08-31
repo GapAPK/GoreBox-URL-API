@@ -1,0 +1,10 @@
+{
+  "name": "URL API
+  "description": "<color=blue>URL API - библиотека которая может открывать любые ссылки через команду !open !url !link (С маленькой буквы.) и без http:// https:// в начале. <color=red>Форк: MPMod.",
+  "mainScript": "gore.lua",
+  "version": "1.0.0",
+  "active": true,
+  "unloadOnError": true,
+  "safeMode": false,
+  "isPlugin": false
+}
